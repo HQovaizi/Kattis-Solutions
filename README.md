@@ -11,6 +11,7 @@ Solutions to Kattis problems
 | [Last Factorial Digit](https://open.kattis.com/problems/lastfactorialdigit) | [Java](https://github.com/HQovaizi/Kattis-Solutions/blob/master/Java/lastfactorialdigit.java) |
 | [Number Fun](https://open.kattis.com/problems/numberfun) | [Java](https://github.com/HQovaizi/Kattis-Solutions/blob/master/Java/numberfun.java) |
 | [Piece of Cake!](https://open.kattis.com/problems/pieceofcake2) | [Java](https://github.com/HQovaizi/Kattis-Solutions/blob/master/Java/pieceofcake2.java) |
+| [Quality-Adjusted Life-Year](https://open.kattis.com/problems/qaly) | [Java](https://github.com/HQovaizi/Kattis-Solutions/blob/master/Java/qaly.java) |
 | [Roaming Romans](https://open.kattis.com/problems/romans) | [Java](https://github.com/HQovaizi/Kattis-Solutions/blob/master/Java/romans.java) |
 | [Transit Woes](https://open.kattis.com/problems/transitwoes) | [Java](https://github.com/HQovaizi/Kattis-Solutions/blob/master/Java/transitwoes.java) |
 | [Triple Texting](https://open.kattis.com/problems/tripletexting) | [Java](https://github.com/HQovaizi/Kattis-Solutions/blob/master/Java/tripletexting.java) |
