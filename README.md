@@ -3,7 +3,7 @@ Solutions to Kattis problems
 
 | Problem | Solutions |
 | - | - |
-| [A Different Problem](https://open.kattis.com/problems/different) | [Prolog](https://github.com/HQovaizi/Kattis-Solutions/blob/master/Prolog/different.pl) |
+| [A Different Problem](https://open.kattis.com/problems/different) | [Java](https://github.com/HQovaizi/Kattis-Solutions/blob/master/Java/different.java), [Prolog](https://github.com/HQovaizi/Kattis-Solutions/blob/master/Prolog/different.pl) |
 | [Avion](https://open.kattis.com/problems/avion) | [Java](https://github.com/HQovaizi/Kattis-Solutions/blob/master/Java/avion.java) |
 | [Grass Seed Inc.](https://open.kattis.com/problems/grassseed) | [Java](https://github.com/HQovaizi/Kattis-Solutions/blob/master/Java/grasseed.java), [Prolog](https://github.com/HQovaizi/Kattis-Solutions/blob/master/Prolog/grassseed.pl) |
 | [Hanging Out on the Terrace](https://open.kattis.com/problems/hangingout) | [Java](https://github.com/HQovaizi/Kattis-Solutions/blob/master/Java/hangingout.java) |
