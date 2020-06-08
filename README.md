@@ -18,4 +18,4 @@ Solutions to Kattis problems
 | [Roaming Romans](https://open.kattis.com/problems/romans) | [Java](https://github.com/HQovaizi/Kattis-Solutions/blob/master/Java/romans.java) |
 | [Transit Woes](https://open.kattis.com/problems/transitwoes) | [Java](https://github.com/HQovaizi/Kattis-Solutions/blob/master/Java/transitwoes.java) |
 | [Triple Texting](https://open.kattis.com/problems/tripletexting) | [Java](https://github.com/HQovaizi/Kattis-Solutions/blob/master/Java/tripletexting.java) |
-| [WERTYU](https://open.kattis.com/problems/wertyu) | [Prolog](https://github.com/HQovaizi/Kattis-Solutions/blob/master/Prolog/wertyu.pl) |
+| [WERTYU](https://open.kattis.com/problems/wertyu) | [Java](https://github.com/HQovaizi/Kattis-Solutions/blob/master/Java/wertyu.java), [Prolog](https://github.com/HQovaizi/Kattis-Solutions/blob/master/Prolog/wertyu.pl) |
