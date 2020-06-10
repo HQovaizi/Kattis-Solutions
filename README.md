@@ -8,6 +8,7 @@ Solutions to Kattis problems
 | [Avion](https://open.kattis.com/problems/avion) | [Java](https://github.com/HQovaizi/Kattis-Solutions/blob/master/Java/avion.java) |
 | [Beavergnaw](https://open.kattis.com/problems/beavergnaw) | [Java](https://github.com/HQovaizi/Kattis-Solutions/blob/master/Java/beavergnaw.java), [Prolog](https://github.com/HQovaizi/Kattis-Solutions/blob/master/Prolog/beavergnaw.pl) |
 | [Cetvrta](https://open.kattis.com/problems/cetvrta) | [Java](https://github.com/HQovaizi/Kattis-Solutions/blob/master/Java/cetvrta.java), [Prolog](https://github.com/HQovaizi/Kattis-Solutions/blob/master/Prolog/cetvrta.pl) |
+| [Datum](https://open.kattis.com/problems/datum) | [Java](https://github.com/HQovaizi/Kattis-Solutions/blob/master/Java/datum.java) |
 | [Grass Seed Inc.](https://open.kattis.com/problems/grassseed) | [Java](https://github.com/HQovaizi/Kattis-Solutions/blob/master/Java/grasseed.java), [Prolog](https://github.com/HQovaizi/Kattis-Solutions/blob/master/Prolog/grassseed.pl) |
 | [Hanging Out on the Terrace](https://open.kattis.com/problems/hangingout) | [Java](https://github.com/HQovaizi/Kattis-Solutions/blob/master/Java/hangingout.java) |
 | [Heart Rate](https://open.kattis.com/problems/heartrate) | [Java](https://github.com/HQovaizi/Kattis-Solutions/blob/master/Java/heartrate.java) |
