@@ -10,6 +10,7 @@ Solutions to Kattis problems
 | [Cetvrta](https://open.kattis.com/problems/cetvrta) | [Java](https://github.com/HQovaizi/Kattis-Solutions/blob/master/Java/cetvrta.java), [Prolog](https://github.com/HQovaizi/Kattis-Solutions/blob/master/Prolog/cetvrta.pl) |
 | [Datum](https://open.kattis.com/problems/datum) | [Java](https://github.com/HQovaizi/Kattis-Solutions/blob/master/Java/datum.java), [Prolog](https://github.com/HQovaizi/Kattis-Solutions/blob/master/Prolog/datum.pl) |
 | [Eligibility](https://open.kattis.com/problems/eligibility) | [Prolog](https://github.com/HQovaizi/Kattis-Solutions/blob/master/Prolog/eligibility.pl) |
+| [Faktor](https://open.kattis.com/problems/faktor) | [Prolog](https://github.com/HQovaizi/Kattis-Solutions/blob/master/Prolog/faktor.pl) |
 | [Grass Seed Inc.](https://open.kattis.com/problems/grassseed) | [Java](https://github.com/HQovaizi/Kattis-Solutions/blob/master/Java/grasseed.java), [Prolog](https://github.com/HQovaizi/Kattis-Solutions/blob/master/Prolog/grassseed.pl) |
 | [Hanging Out on the Terrace](https://open.kattis.com/problems/hangingout) | [Java](https://github.com/HQovaizi/Kattis-Solutions/blob/master/Java/hangingout.java) |
 | [Heart Rate](https://open.kattis.com/problems/heartrate) | [Java](https://github.com/HQovaizi/Kattis-Solutions/blob/master/Java/heartrate.java) |
