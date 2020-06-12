@@ -5,7 +5,7 @@ Solutions to Kattis problems
 | - | - |
 | [3D Printed Statues](https://open.kattis.com/problems/3dprinter) | [Java](https://github.com/HQovaizi/Kattis-Solutions/blob/master/Java/threedprinter.java) |
 | [4 thought](https://open.kattis.com/problems/4thought) | [Java](https://github.com/HQovaizi/Kattis-Solutions/blob/master/Java/fourthought.java) |
-| [A Different Problem](https://open.kattis.com/problems/different) | [Java](https://github.com/HQovaizi/Kattis-Solutions/blob/master/Java/different.java), [Python](https://github.com/HQovaizi/Kattis-Solutions/blob/master/Python/different.py), [Prolog](https://github.com/HQovaizi/Kattis-Solutions/blob/master/Prolog/different.pl) |
+| [A Different Problem](https://open.kattis.com/problems/different) | [Java](https://github.com/HQovaizi/Kattis-Solutions/blob/master/Java/different.java), [Python3](https://github.com/HQovaizi/Kattis-Solutions/blob/master/Python/different.py), [Prolog](https://github.com/HQovaizi/Kattis-Solutions/blob/master/Prolog/different.pl) |
 | [Avion](https://open.kattis.com/problems/avion) | [Java](https://github.com/HQovaizi/Kattis-Solutions/blob/master/Java/avion.java) |
 | [Beavergnaw](https://open.kattis.com/problems/beavergnaw) | [Java](https://github.com/HQovaizi/Kattis-Solutions/blob/master/Java/beavergnaw.java), [Prolog](https://github.com/HQovaizi/Kattis-Solutions/blob/master/Prolog/beavergnaw.pl) |
 | [Cetvrta](https://open.kattis.com/problems/cetvrta) | [Java](https://github.com/HQovaizi/Kattis-Solutions/blob/master/Java/cetvrta.java), [Prolog](https://github.com/HQovaizi/Kattis-Solutions/blob/master/Prolog/cetvrta.pl) |
