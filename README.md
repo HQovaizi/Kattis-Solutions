@@ -3,7 +3,7 @@ Solutions to Kattis problems
 
 | Problem | Solutions |
 | - | - |
-| [3D Printed Statues](https://open.kattis.com/problems/3dprinter) | [Java](https://github.com/HQovaizi/Kattis-Solutions/blob/master/Java/threedprinter.java) |
+| [3D Printed Statues](https://open.kattis.com/problems/3dprinter) | [Java](https://github.com/HQovaizi/Kattis-Solutions/blob/master/Java/threedprinter.java), [Python3](https://github.com/HQovaizi/Kattis-Solutions/blob/master/Python/3dprinter.py) |
 | [4 thought](https://open.kattis.com/problems/4thought) | [Java](https://github.com/HQovaizi/Kattis-Solutions/blob/master/Java/fourthought.java) |
 | [A Different Problem](https://open.kattis.com/problems/different) | [Java](https://github.com/HQovaizi/Kattis-Solutions/blob/master/Java/different.java), [Python3](https://github.com/HQovaizi/Kattis-Solutions/blob/master/Python/different.py), [Prolog](https://github.com/HQovaizi/Kattis-Solutions/blob/master/Prolog/different.pl) |
 | [Avion](https://open.kattis.com/problems/avion) | [Java](https://github.com/HQovaizi/Kattis-Solutions/blob/master/Java/avion.java) |
