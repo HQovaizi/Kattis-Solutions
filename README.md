@@ -3,10 +3,10 @@ Solutions to Kattis problems
 
 | Problem | Solutions |
 | - | - |
-| [3D Printed Statues](https://open.kattis.com/problems/3dprinter) | [Java](https://github.com/HQovaizi/Kattis-Solutions/blob/master/Java/threedprinter.java), [Python3](https://github.com/HQovaizi/Kattis-Solutions/blob/master/Python/3dprinter.py) [C++](https://github.com/HQovaizi/Kattis-Solutions/blob/master/C%2B%2B/3dprinter.cpp) |
+| [3D Printed Statues](https://open.kattis.com/problems/3dprinter) | [Java](https://github.com/HQovaizi/Kattis-Solutions/blob/master/Java/threedprinter.java), [Python3](https://github.com/HQovaizi/Kattis-Solutions/blob/master/Python/3dprinter.py), [C++](https://github.com/HQovaizi/Kattis-Solutions/blob/master/C%2B%2B/3dprinter.cpp) |
 | [4 thought](https://open.kattis.com/problems/4thought) | [Java](https://github.com/HQovaizi/Kattis-Solutions/blob/master/Java/fourthought.java) |
 | [A Different Problem](https://open.kattis.com/problems/different) | [Java](https://github.com/HQovaizi/Kattis-Solutions/blob/master/Java/different.java), [Python3](https://github.com/HQovaizi/Kattis-Solutions/blob/master/Python/different.py), [Prolog](https://github.com/HQovaizi/Kattis-Solutions/blob/master/Prolog/different.pl) |
-| [Avion](https://open.kattis.com/problems/avion) | [Java](https://github.com/HQovaizi/Kattis-Solutions/blob/master/Java/avion.java) |
+| [Avion](https://open.kattis.com/problems/avion) | [Java](https://github.com/HQovaizi/Kattis-Solutions/blob/master/Java/avion.java), [Python3](https://github.com/HQovaizi/Kattis-Solutions/blob/master/Python/avion.py) |
 | [Beavergnaw](https://open.kattis.com/problems/beavergnaw) | [Java](https://github.com/HQovaizi/Kattis-Solutions/blob/master/Java/beavergnaw.java), [Prolog](https://github.com/HQovaizi/Kattis-Solutions/blob/master/Prolog/beavergnaw.pl) |
 | [Cetvrta](https://open.kattis.com/problems/cetvrta) | [Java](https://github.com/HQovaizi/Kattis-Solutions/blob/master/Java/cetvrta.java), [Prolog](https://github.com/HQovaizi/Kattis-Solutions/blob/master/Prolog/cetvrta.pl) |
 | [Datum](https://open.kattis.com/problems/datum) | [Java](https://github.com/HQovaizi/Kattis-Solutions/blob/master/Java/datum.java), [Prolog](https://github.com/HQovaizi/Kattis-Solutions/blob/master/Prolog/datum.pl) |
