@@ -29,3 +29,4 @@ Solutions to Kattis problems
 | [Triple Texting](https://open.kattis.com/problems/tripletexting) | [Java](https://github.com/HQovaizi/Kattis-Solutions/blob/master/Java/tripletexting.java) |
 | [WERTYU](https://open.kattis.com/problems/wertyu) | [Java](https://github.com/HQovaizi/Kattis-Solutions/blob/master/Java/wertyu.java), [Prolog](https://github.com/HQovaizi/Kattis-Solutions/blob/master/Prolog/wertyu.pl) |
 | [Words for Numbers](https://open.kattis.com/problems/wordsfornumbers) | [Prolog](https://github.com/HQovaizi/Kattis-Solutions/blob/master/Prolog/wordsfornumbers.pl) |
+| [Zamka](https://open.kattis.com/problems/zamka) | [Prolog](https://github.com/HQovaizi/Kattis-Solutions/blob/master/Prolog/zamka.pl) |
