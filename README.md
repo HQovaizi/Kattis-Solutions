@@ -21,7 +21,7 @@ Solutions to Kattis problems
 | [I Repeat Myself I Repeat Myself I Repeat](https://open.kattis.com/problems/irepeatmyself) | [Python3](https://github.com/HQovaizi/Kattis-Solutions/blob/master/Python/irepeatmyself.py), [Prolog](https://github.com/HQovaizi/Kattis-Solutions/blob/master/Prolog/irepeatmyself.pl) |
 | [Last Factorial Digit](https://open.kattis.com/problems/lastfactorialdigit) | [Java](https://github.com/HQovaizi/Kattis-Solutions/blob/master/Java/lastfactorialdigit.java), [Python3](https://github.com/HQovaizi/Kattis-Solutions/blob/master/Python/lastfactorialdigit.py) |
 | [Number Fun](https://open.kattis.com/problems/numberfun) | [Java](https://github.com/HQovaizi/Kattis-Solutions/blob/master/Java/numberfun.java), [Python3](https://github.com/HQovaizi/Kattis-Solutions/blob/master/Python/numberfun.py) |
-| [Piece of Cake!](https://open.kattis.com/problems/pieceofcake2) | [Java](https://github.com/HQovaizi/Kattis-Solutions/blob/master/Java/pieceofcake2.java) |
+| [Piece of Cake!](https://open.kattis.com/problems/pieceofcake2) | [Java](https://github.com/HQovaizi/Kattis-Solutions/blob/master/Java/pieceofcake2.java), [Python3](https://github.com/HQovaizi/Kattis-Solutions/blob/master/Python/pieceofcake2.py) |
 | [Poker Hand](https://open.kattis.com/problems/pokerhand) | [Python3](https://github.com/HQovaizi/Kattis-Solutions/blob/master/Python/pokerhand.py) |
 | [Quality-Adjusted Life-Year](https://open.kattis.com/problems/qaly) | [Java](https://github.com/HQovaizi/Kattis-Solutions/blob/master/Java/qaly.java) |
 | [Roaming Romans](https://open.kattis.com/problems/romans) | [Java](https://github.com/HQovaizi/Kattis-Solutions/blob/master/Java/romans.java) |
