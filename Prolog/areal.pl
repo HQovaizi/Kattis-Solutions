@@ -44,38 +44,3 @@ main :-
     read_int(Area),
 		Perimeter is sqrt(Area) * 4,
 		writeln(Perimeter).
-
-/*-----solver-----*/
-solver(0).
-solver(CaseNum) :-
-	read_string(ACodes),
-	read_string(BCodes),
-	parseMatches(ACodes, BCodes, Matches),
-	codesToString(ACodes, AString),
-	codesToString(BCodes, BString),
-	displayString(AString),
-	displayString(BString),
-	displayString(Matches),
-	NextCaseNum is CaseNum - 1,
-	solver(NextCaseNum).
-
-/*-----parseMatches-----*/
-parseMatches([], [], []).
-parseMatches([HA|TA], [HB|TB], ['.'|TM]) :-
-	HA = HB,
-	parseMatches(TA, TB, TM).
-parseMatches([_|TA], [_|TB], ['*'|TM]) :-
-	parseMatches(TA, TB, TM). 
-	
-/*-----codesToString-----*/
-codesToString([], []).
-codesToString([H|T], [H2 | T2]) :-
-	char_code(H2, H),
-	codesToString(T, T2).
-
-/*-----displayString-----*/	
-displayString([]) :-
-	write(''), nl.
-displayString([H|T]) :-
-	write(H),
-	displayString(T).
