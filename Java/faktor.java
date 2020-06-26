@@ -1,6 +1,11 @@
 /*
  *	Problem: "Faktor"
+ *	Problem ID: "faktor"
+ *	https://open.kattis.com/problems/faktor
+ *
+ *	Solution: Java
  */
+ 
 
 import java.util.Scanner;
 
