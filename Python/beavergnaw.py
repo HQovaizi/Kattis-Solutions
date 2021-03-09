@@ -13,7 +13,5 @@ while ( ((D) and (V)) != 0 ):
 	d = v ** (1. / 3)
 	
 	print( "%.9f\n" % (d) )
-	
-	d
 	D, V = map(int, input().split(" "))
 	
