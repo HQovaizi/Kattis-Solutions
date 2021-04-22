@@ -3,12 +3,10 @@
  */
 
 import java.util.Scanner;
-import java.util.Collections;
-import java.util.ArrayList;
 
 public class mjehuric {
 
-	/*-----main-----*/
+	/*-----displayArray-----*/
 	public static void displayArray(int[] array) {
 		for (int i = 0; i < array.length; i++) {
 			if (i == (array.length - 1))
@@ -16,7 +14,8 @@ public class mjehuric {
 			else
 				System.out.print(array[i] + " ");
 		}
-	}
+	} // displayArray
+	
 	/*-----main-----*/
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
@@ -45,7 +44,6 @@ public class mjehuric {
 			if (swapOccured == false)
 				break;
 		}
-
 	} // end main
 	
 }
