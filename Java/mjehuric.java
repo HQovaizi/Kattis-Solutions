@@ -14,7 +14,7 @@ public class mjehuric {
 			else
 				System.out.print(array[i] + " ");
 		}
-	} // displayArray
+	} // end displayArray
 	
 	/*-----main-----*/
 	public static void main(String[] args) {
@@ -24,9 +24,9 @@ public class mjehuric {
 		// read sequence
 		for (int i = 0; i < sequence.length; i++) {
 			sequence[i] = sc.nextInt();
-			// System.out.println(sequence[i]);
 		}
 		
+		// perform swap
 		for (int iteration = 1; iteration < sequence.length; iteration++) {
 			boolean swapOccured = false;
 			
