@@ -10,10 +10,10 @@ using namespace std;
 int main(void) {
 
 	int numEyes, numNose, numMouth;
-  cin >> numEyes >> numNose >> numMouth;
+	cin >> numEyes >> numNose >> numMouth;
 	
-  int result = numEyes * numNose * numMouth;
-  cout << result;
+	int result = numEyes * numNose * numMouth;
+	cout << result;
 	
-  return 0;
+	return 0;
 } // end main
