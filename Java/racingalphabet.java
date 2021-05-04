@@ -1,8 +1,8 @@
 /*
- *	Problem:		Racing Around the Alphabet
+ *	Problem:	Racing Around the Alphabet
  *	Problem ID:	racingalphabet
- *	url:				https://open.kattis.com/problems/racingalphabet
- *	Solution:		Java
+ *	url:		https://open.kattis.com/problems/racingalphabet
+ *	Solution:	Java
  */
 
 import java.util.Scanner;
