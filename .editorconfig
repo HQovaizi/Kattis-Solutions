@@ -1,4 +1,4 @@
-[*.{java,js,python,cpp,php,rb,pl}]
+[*]
 charset = utf-8
 indent_style = tab
 indent_size = 2
