@@ -1,8 +1,8 @@
 /*
- *	Problem: 		Laptop Sticker
+ *	Problem:		Laptop Sticker
  *	Problem ID:	laptopsticker
  *	url:				https://open.kattis.com/problems/laptopsticker
- *	Solution: 	Java
+ *	Solution:		Java
  */
 
 import java.util.Scanner;
