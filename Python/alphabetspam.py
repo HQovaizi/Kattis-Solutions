@@ -3,7 +3,7 @@
  *	Problem:		Alphabet Spam
  *	Problem ID:	alphabetspam
  *	url:				https://open.kattis.com/problems/alphabetspam
- *	Solution:		alphabetspam
+ *	Solution:		Python
  *
 '''
 
@@ -19,12 +19,12 @@ lowercasePattern = '[a-z]'
 lowercaseRatio = len(re.findall(lowercasePattern, spam)) / spamLength
 
 uppercasePattern = '[A-Z]'
-UppercaseRatio =  len(re.findall(uppercasePattern, spam)) / spamLength
+uppercaseRatio =  len(re.findall(uppercasePattern, spam)) / spamLength
 
 symbolsPattern = '[^a-zA-Z_]'
 symbolsRatio =  len(re.findall(symbolsPattern, spam)) / spamLength
 
 print(whitespaceRatio)
 print(lowercaseRatio)
-print(UppercaseRatio)
+print(uppercaseRatio)
 print(symbolsRatio)
