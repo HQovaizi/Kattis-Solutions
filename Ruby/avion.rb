@@ -7,7 +7,7 @@
  *
 =end
 
-$NUMBER_CASES = 5
+$number_cases = 5
 
 class Solver
 	
@@ -15,7 +15,7 @@ class Solver
 		blimp = false
 		output = ""
 		
-		for case_number in 1..$NUMBER_CASES
+		for case_number in 1..$number_cases
 			current_code = gets.chomp
 			if (current_code.include? "FBI")
 				blimp = true
