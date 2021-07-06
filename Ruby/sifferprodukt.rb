@@ -1,7 +1,7 @@
 =begin
  *
- *	Problem:		
- *	Problem ID:	Digit Product
+ *	Problem:		Digit Product
+ *	Problem ID:	sifferprodukt
  *	url:				https://open.kattis.com/problems/sifferprodukt
  *	Solution:		Ruby
  *
