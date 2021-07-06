@@ -1,6 +1,6 @@
 =begin
  *
- *	Problem:		WERTY
+ *	Problem:		WERTYU
  *	Problem ID:	wertyu
  *	url:				https://open.kattis.com/problems/wertyu
  *	Solution:		Ruby
